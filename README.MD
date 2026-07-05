@@ -19,6 +19,6 @@ This is just a demo repository to test some of the git features.
 ## Then mark with squash ( instead of pick ) all the commits and save the buffer
 
 ## A new buffer with a commit message will be prompted for your editing
-Done
+At this point your squash is done ... do your rebasing in main if needed
 
 
