@@ -1,1 +1,1 @@
-this is another file ( file 2)
+this is file 2
