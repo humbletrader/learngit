@@ -7,3 +7,4 @@ line 6 changed in r3 and r4
 line 7 changed in r3
 line 8 changed in r4
 the other half of the feature_5 is to change this line
+f6
